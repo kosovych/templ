@@ -4,7 +4,7 @@ To start use:
 To work use:
 	$ gulp
 
-To bild use:
+To build use:
 	$ gulp build
 
-Plugins: sass, autoprefixer, sourcemaps, browserSync, browserify, vinyl-source-stream, gulp-ejs
+Plugins: sass, autoprefixer, sourcemaps, browserSync, browserify, vinyl-source-stream, gulp-ejs, gzip
